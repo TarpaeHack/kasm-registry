@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'DKDC Repo',
     description: 'DKDC Repo For Kasm',
     icon: '/img/logo.svg',
-    listUrl: 'https://dkdc.github.io/kasm-registry/',
+    listUrl: 'https://tarpaehack.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
